@@ -1,0 +1,12 @@
+C:\Users\Adam\Documents\SD134ImmersionFT\RockPaperScissorsGameDemo\RockPaperScissorsRepo\obj\Debug\net6.0\RockPaperScissorGameDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\Documents\SD134ImmersionFT\RockPaperScissorsGameDemo\RockPaperScissorsRepo\obj\Debug\net6.0\RockPaperScissorGameDemo.AssemblyInfoInputs.cache
+C:\Users\Adam\Documents\SD134ImmersionFT\RockPaperScissorsGameDemo\RockPaperScissorsRepo\obj\Debug\net6.0\RockPaperScissorGameDemo.AssemblyInfo.cs
+C:\Users\Adam\Documents\SD134ImmersionFT\RockPaperScissorsGameDemo\RockPaperScissorsRepo\obj\Debug\net6.0\RockPaperScissorGameDemo.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Documents\SD134ImmersionFT\RockPaperScissorsGameDemo\RockPaperScissorsRepo\bin\Debug\net6.0\RockPaperScissorGameDemo.deps.json
+C:\Users\Adam\Documents\SD134ImmersionFT\RockPaperScissorsGameDemo\RockPaperScissorsRepo\bin\Debug\net6.0\RockPaperScissorGameDemo.dll
+C:\Users\Adam\Documents\SD134ImmersionFT\RockPaperScissorsGameDemo\RockPaperScissorsRepo\bin\Debug\net6.0\ref\RockPaperScissorGameDemo.dll
+C:\Users\Adam\Documents\SD134ImmersionFT\RockPaperScissorsGameDemo\RockPaperScissorsRepo\bin\Debug\net6.0\RockPaperScissorGameDemo.pdb
+C:\Users\Adam\Documents\SD134ImmersionFT\RockPaperScissorsGameDemo\RockPaperScissorsRepo\obj\Debug\net6.0\RockPaperScissorGameDemo.csproj.AssemblyReference.cache
+C:\Users\Adam\Documents\SD134ImmersionFT\RockPaperScissorsGameDemo\RockPaperScissorsRepo\obj\Debug\net6.0\RockPaperScissorGameDemo.dll
+C:\Users\Adam\Documents\SD134ImmersionFT\RockPaperScissorsGameDemo\RockPaperScissorsRepo\obj\Debug\net6.0\ref\RockPaperScissorGameDemo.dll
+C:\Users\Adam\Documents\SD134ImmersionFT\RockPaperScissorsGameDemo\RockPaperScissorsRepo\obj\Debug\net6.0\RockPaperScissorGameDemo.pdb
